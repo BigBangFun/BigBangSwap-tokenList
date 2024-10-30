@@ -1,0 +1,26 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.TokenSymbol = void 0;
+var TokenSymbol;
+(function (TokenSymbol) {
+    TokenSymbol["IZI"] = "iZi";
+    TokenSymbol["ETH"] = "ETH";
+    TokenSymbol["WETH"] = "WETH";
+    TokenSymbol["USDC"] = "USDC";
+    TokenSymbol["USDT"] = "USDT";
+    TokenSymbol["ACY"] = "ACY";
+    TokenSymbol["DAI"] = "DAI";
+    TokenSymbol["BIT"] = "BIT";
+    TokenSymbol["MIM"] = "MIM";
+    TokenSymbol["stETH"] = "stETH";
+    TokenSymbol["SPELL"] = "SPELL";
+    TokenSymbol["LIDO"] = "LIDO";
+    TokenSymbol["YIN"] = "YIN";
+    TokenSymbol["DEVT"] = "DEVT";
+    TokenSymbol["DDAO"] = "DDAO";
+    TokenSymbol["BUSD"] = "BUSD";
+    TokenSymbol["WBNB"] = "WBNB";
+    TokenSymbol["BNB"] = "BNB";
+    TokenSymbol["DOGE"] = "DOGE";
+    TokenSymbol["SHIB"] = "SHIB";
+})(TokenSymbol = exports.TokenSymbol || (exports.TokenSymbol = {}));

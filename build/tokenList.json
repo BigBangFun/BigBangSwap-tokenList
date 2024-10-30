@@ -1,0 +1,58 @@
+[
+  {
+    "name": "BNB Token",
+    "symbol": "BNB",
+    "chains": [
+      56
+    ],
+    "icon": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/bnb.png",
+    "contracts": {
+      "56": {
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimal": 18
+      }
+    }
+  },
+  {
+    "name": "Wrapped BNB",
+    "symbol": "WBNB",
+    "chains": [
+      56
+    ],
+    "icon": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/bnb.png",
+    "contracts": {
+      "56": {
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "decimal": 18
+      }
+    }
+  },
+  {
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "chains": [
+      56
+    ],
+    "icon": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdt.png",
+    "contracts": {
+      "56": {
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "decimal": 18
+      }
+    }
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "chains": [
+      56
+    ],
+    "icon": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.png",
+    "contracts": {
+      "56": {
+        "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "decimal": 18
+      }
+    }
+  }
+]

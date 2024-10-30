@@ -1,0 +1,20 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.ChainId = void 0;
+var ChainId;
+(function (ChainId) {
+    ChainId[ChainId["EthereumMainnet"] = 1] = "EthereumMainnet";
+    ChainId[ChainId["Rinkeby"] = 4] = "Rinkeby";
+    ChainId[ChainId["Optimism"] = 10] = "Optimism";
+    ChainId[ChainId["BSC"] = 56] = "BSC";
+    ChainId[ChainId["Gatechain"] = 86] = "Gatechain";
+    ChainId[ChainId["BSCTestnet"] = 97] = "BSCTestnet";
+    ChainId[ChainId["Heco"] = 128] = "Heco";
+    ChainId[ChainId["Matic"] = 137] = "Matic";
+    ChainId[ChainId["Fantom"] = 250] = "Fantom";
+    ChainId[ChainId["Izumi"] = 1337] = "Izumi";
+    ChainId[ChainId["Arbitrum"] = 42161] = "Arbitrum";
+    ChainId[ChainId["MaticTestnet"] = 80001] = "MaticTestnet";
+    ChainId[ChainId["Harmony"] = 1666600000] = "Harmony";
+    ChainId[ChainId["HarmonyTestnet"] = 1666700000] = "HarmonyTestnet";
+})(ChainId = exports.ChainId || (exports.ChainId = {}));
